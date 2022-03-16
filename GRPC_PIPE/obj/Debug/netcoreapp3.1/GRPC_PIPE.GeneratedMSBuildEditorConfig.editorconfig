@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GRPC_PIPE
+build_property.ProjectDir = /Users/andrijborisenko/Projects/GRPC_PIPE/GRPC_PIPE/
